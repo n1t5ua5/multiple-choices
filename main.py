@@ -38,3 +38,15 @@ questions = [
         "A"
     )
 ]
+
+
+def run_quiz(questions):
+    score = 0
+    for question in questions:
+        answer = input(question.prompt)
+        if answer.upper() == question.answer:
+            score += 1
+    print(f"You got {score}/{len(questions)} coreect.")
+
+
+run_quiz(questions)

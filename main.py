@@ -91,8 +91,13 @@ questions = [
 
 def run_quiz(questions):
     score = 0
+    exit_commands = ['exit', 'quit', 'q']
+
     for question in questions:
         answer = input(question.prompt)
+        if answer.lower() in exit_commands:
+            print("So long for now!")
+            return
         if answer.upper() == question.answer:
             score += 1
     print(f"You got {score}/{len(questions)} correct.")

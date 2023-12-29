@@ -1,8 +1,16 @@
+JANUARY 2024
+
+
+01/02/24 / https://github.com/nitsua5/multiple-choices
+???
+
+
 DECEMBER 2023
 
 
-12/29/23
-???
+12/29/23 / https://github.com/nitsua5/multiple-choices
+
+Today I input a new dataset inside the questions array but something still isn't working, I can't exit the program in the terminal without closing the terminal itself. There is no prompt available to exit, so I'm going to input one now just to use the program to study over the weekend. In the future I will elaborate more on how this was built & how to make it more useful.
 
 
 12/28/23 / https://github.com/nitsua5/multiple-choices

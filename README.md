@@ -8,6 +8,4 @@ an easy-to-download, open-source application that allows users to input custom d
 - document any changes inside Journal
 - use it for any dataset on any machine
 
-GITHUB: github.com/nitsua5/multiple-choices
-
-
+GITHUB: https://github.com/nitsua5/multiple-choices
